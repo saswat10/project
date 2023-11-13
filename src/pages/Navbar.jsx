@@ -23,7 +23,7 @@ const Navbar = () => {
 				</ul>
 				<ul className='navbar-end'>
 					<li>
-						<a href='https://www.github.io' className='secondary'>
+						<a href='https://github.com/saswat10/project' className='secondary'>
 							<svg
 								xmlns='http://www.w3.org/2000/svg'
 								fill='white'
